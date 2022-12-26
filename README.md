@@ -3,6 +3,7 @@
 <br>
 <br>
 :man_technologist: Utilizei Display Flex para fazer o posicionamento das divs no site.
+<br>
 :computer: Utilizei JS para desenvolver o menu para mobile.
 
 <h2>Medicenter Template Responsive Website</h2>
@@ -10,4 +11,5 @@
 <br>
 <br>
 :man_technologist: I've used Display Flex to make the div positioning on the website.
+<br>
 :computer: I've used JS to develop the mobile menu.
